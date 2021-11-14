@@ -25,6 +25,7 @@
   color: white;
   line-height: 110%;
 }
+
 .header__color {
   color: #f9bf16;
   border: 1px;
@@ -51,4 +52,44 @@
 }
 .header__button--blue {
   background-color: #1d37fd;
+}
+
+.middle__tittle {
+  font-size: 35px;
+  width: 20%;
+  color: pink;
+  padding: 90px 400px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.middle__comment {
+  width: 10%;
+  color: #1d37fd;
+}
+
+.middle__description {
+  color: black;
+}
+
+.tyt {
+  padding: 100px;
+  margin-left: 300px;
+}
+
+.pop {
+  margin-right: 2000px;
+  margin-left: 300px;
+}
+
+.header__button__read {
+  color: rgb(173, 40, 156);
+  border: none;
+  outline: none;
+  padding: 10px 30px;
+  background-color: #3ebb87;
+  border-radius: 700px;
+  margin-right: 200px;
+  margin-left: 1300px;
+  cursor: pointer;
 }
